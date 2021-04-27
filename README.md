@@ -11,12 +11,10 @@ To run the svreg_multiparc module,
 3. Process your T1 MRI using BrainSUite and SVReg sequence. Please make sure to use BCI-DNI or USCBrain brain atlas. 
 4. Run the command Usage is svreg_multiparc.sh [subjectbase] [multiatlas dir] [BainSuitePath] [AtlasName]
 where 
-subbasename:
-multiatlas_dir:
-BraiSuitePath
+subbasename: this is as in BrainSuite processed MRI. If the input t1 was path/inmri.nii.gz then subbasename is path/inmri.nii.gz
+multiatlas_dir: directory path where multi atlas was unzipped in step 1.
+BraiSuitePath: Path of BrainSuite installation
 AtlasName: 'all' for all atlases, or specify the one atlas that you want to use
-
-Ex. 
 
 
 
