@@ -4,6 +4,7 @@ This module generates multiple parcellations of a single subject that has been p
 ## System requirements: 
 Same as in BrainSuite system requirements. Make sure that you have BrainSuite installed and running on your platform.
 
+## Usage
 To run the svreg_multiparc module, 
 1. First download the USCBrainMulti atlas [here](https://drive.google.com/file/d/1YpQH8rQA0v2lNFXR-XdWPIfmleO_095-/view?usp=sharing), and unzip it.
 2. Download the binaries for svreg_multiparc here.
