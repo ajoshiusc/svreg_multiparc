@@ -14,7 +14,7 @@ multiatlas_dir:
 BraiSuitePath
 AtlasName: 'all' for all atlases, or specify the one atlas that you want to use
 
-
+Ex. 
 
 
 
