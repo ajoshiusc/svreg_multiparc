@@ -14,7 +14,7 @@ where
 subbasename: this is as in BrainSuite processed MRI. If the input t1 was path/inmri.nii.gz then subbasename is path/inmri.nii.gz
 multiatlas_dir: directory path where multi atlas was unzipped in step 1.
 BraiSuitePath: Path of BrainSuite installation
-AtlasName: 'all' for all atlases, or specify the one atlas that you want to use.
+AtlasName: 'all' for all atlases, or specify the one atlas that you want to use. Example usage is as follows:
 
     ``./svreg_multiparc.sh /path/subjectmriname /path/USCBrainMulti /path/BrainSuite19b DKT40``
 
