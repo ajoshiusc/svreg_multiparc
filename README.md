@@ -16,15 +16,9 @@ multiatlas_dir: directory path where multi atlas was unzipped in step 1.
 BraiSuitePath: Path of BrainSuite installation
 AtlasName: 'all' for all atlases, or specify the one atlas that you want to use.
 
-
-    Ex. ./svreg_multiparc.sh /path/subjectmriname /path/USCBrainMulti /path/BrainSuite19b DKT40
-
+    ``./svreg_multiparc.sh /path/subjectmriname /path/USCBrainMulti /path/BrainSuite19b DKT40``
 
 
-
-
-
-
-
+Here are screenshots of smoothed representation of labelled subject cortex for one subject.
 ![multiparc](multiparc.png)
 
