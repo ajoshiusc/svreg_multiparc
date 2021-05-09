@@ -18,7 +18,6 @@ AtlasName: 'all' for all atlases, or specify the one atlas that you want to use.
 
     ``./svreg_multiparc.sh /path/subjectmriname /path/USCBrainMulti /path/BrainSuite19b DKT40``
 
-
 Here are screenshots of smoothed representation of labelled subject cortex for one subject.
 ![multiparc](multiparc.png)
 
@@ -33,3 +32,12 @@ You can visualize the generated parcellations in brainsuite.
 You will see the gui as below. You can click on surface or volume and see the label at the bottom left of the GUI.
 
 ![image](https://user-images.githubusercontent.com/15238551/117532473-9127dd80-af9c-11eb-802c-cb4543973c87.png)
+
+## Comparison to FreeSurfer
+A quantitaive comparison still needs to be performed. Here is one result
+
+![HCP-MMP1(Glasser)](https://user-images.githubusercontent.com/15238551/117563901-de1fb880-b05d-11eb-8606-774106e35628.png)
+
+
+https://docs.google.com/presentation/d/1QuZlnUOsMfwWXj-ogcDJG_eMJ5X5ENiswBFzA0hL0CU/edit?usp=sharing
+
