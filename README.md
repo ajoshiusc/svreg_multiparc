@@ -7,7 +7,7 @@ Same as in BrainSuite system requirements. Make sure that you have BrainSuite in
 ## Usage
 To run the svreg_multiparc module, 
 1. First download the USCBrainMulti atlas [here](https://drive.google.com/file/d/1YpQH8rQA0v2lNFXR-XdWPIfmleO_095-/view?usp=sharing), and unzip it.
-2. For matlab, clone the repository and see main_svreg_multiparc.m. For running using binaries, download the binaries for svreg_multiparc [here](https://github.com/ajoshiusc/svreg_multiparc/releases).
+2. For matlab, clone the repository and see ``main_svreg_multiparc.m``. For running using binaries, download the binaries for svreg_multiparc [here](https://github.com/ajoshiusc/svreg_multiparc/releases).
 3. Process your T1 MRI using BrainSuite and SVReg sequence. Please make sure to use BCI-DNI or USCBrain brain atlas. 
 4. Run the command. Usage is: ``svreg_multiparc.sh [subjectbase] [multiatlas dir] [BainSuitePath] [AtlasName]``
 where 
