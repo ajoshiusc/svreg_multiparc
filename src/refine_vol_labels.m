@@ -49,7 +49,13 @@ else
     ids = -999;
 end
 
-ind=find((vl_new.img>=100)&(vl_new.img<600)&(~ismember(vl_new.img,ids)));
+
+if isempty(postfix)|| contains(postfix,'USCBrain') || contains(postfix,'BCI-DNI') || contains(postfix,'USCLobes')
+    ind=find((vl_new.img>=100)&(vl_new.img<600)&(~ismember(vl_new.img,ids)));
+else
+    cort_labs = setdiff(union(unique(smidr.labels),unique(smid.labels)),0);
+    ind = find(ismember(vl_new.img,cort_labs)&(~ismember(vl_new.img,ids)));
+end
 %ind=union(ind,ind_cortex_marked_as_wm);
 
 [XX,YY,ZZ]=ind2sub(size(vl_new.img),ind);XX=XX-1;YY=YY-1;ZZ=ZZ-1;
