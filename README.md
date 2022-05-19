@@ -41,6 +41,6 @@ A quantitaive comparison and validation still needs to be performed. Here is one
     
 ## List of atlases supported
 While it is easy to add any atlas to the svreg-multiparc module, the following atlases have already been imported and are ready to use:
-   AAL(1,2,3), BCI-DNI, Brainnetome, Broadmann, Desikan-Killiany, Destrieux, DKT40, Economo, Entorhinal, Glasser2016, Hammers mith, Harvard Oxford, HCP-MMP1, HMAT, JHU, Juelich, Perirhinal, Schaefer 2018, Talairach, USCBrain, USCLobes, Yeo2011_7, Yeo2011_17
+   AAL(1,2,3), BCI-DNI, Brainnetome, Brodmann, Desikan-Killiany, Destrieux, DKT40, Economo, Entorhinal, Glasser2016, Hammers mith, Harvard Oxford, HCP-MMP1, HMAT, JHU, Juelich, Perirhinal, Schaefer 2018, Talairach, USCBrain, USCLobes, Yeo2011_7, Yeo2011_17
     
     
