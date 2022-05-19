@@ -38,3 +38,9 @@ A quantitaive comparison and validation still needs to be performed. Here is one
 
 ![HCP-MMP1(Glasser)](https://user-images.githubusercontent.com/15238551/117563901-de1fb880-b05d-11eb-8606-774106e35628.png)
 
+    
+## List of atlases supported
+While it is easy to add any atlas to the svreg-multiparc module, the following atlases have already been imported and are ready to use:
+    USCBrain, BCI-DNI, Brainnetome, HCP-MMP1, Broadmann, AAL(1,2,3), Desikan-Killiany, Destrieux, DKT40, Economo, Entorhinal, Glasser2016, Hammers mith, Harvard Oxford, HCP-MMP1, HMAT, JHU, Juelich, Perirhinal, Schaefer 2018, Talairach, USCBrain, USCLobes, Yeo2011_7, Yeo2011_17
+    
+    
