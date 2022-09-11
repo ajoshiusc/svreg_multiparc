@@ -43,9 +43,9 @@ A quantitaive comparison and validation still needs to be performed. Here is one
 While it is easy to add any atlas to the svreg-multiparc module, the following atlases have already been imported and are ready to use:
    AAL(1,2,3), BCI-DNI, Brainnetome, Brodmann, Desikan-Killiany, Destrieux, DKT40, Economo, Entorhinal, Glasser2016, Hammers mith, Harvard Oxford, HCP-MMP1, HMAT, JHU, Juelich, Perirhinal, Schaefer 2018, Talairach, USCBrain, USCLobes, Yeo2011_7, Yeo2011_17
     
-References
-Joshi et al. OHBM 2022. 
-[poster](https://docs.google.com/presentation/d/1H056sMLzNTS_burCOwPon268hg_9BqKMxQiy-yEbsjc/edit?usp=sharing)
+## References
+    
+1. Joshi AA, Tadel F, Taylor KN, Medani T., Akrami H, Nair D, Leahy RM, SVReg-MultiParc: A Method for Automated Labeling of Brains with Multiple Parcellation Schemes, OHBM 2022. [poster](https://docs.google.com/presentation/d/1H056sMLzNTS_burCOwPon268hg_9BqKMxQiy-yEbsjc/edit?usp=sharing)
 
-Joshi et al. AES 2021
+2. Joshi AA, Tadel F, Taylor KN, Akrami H, Nair D, Leahy RM, Automatic Labeling of Individual Brains with Multiple Parcellation Schemes, AES 2021.
 [poster](https://docs.google.com/presentation/d/1mMj5y9r3tY_OFCrhoq9_L2VAUFCtrrWyTVg8Q376umw/edit?usp=sharing)
