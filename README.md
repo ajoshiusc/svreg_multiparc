@@ -45,7 +45,7 @@ While it is easy to add any atlas to the svreg-multiparc module, the following a
     
 References
 Joshi et al. OHBM 2022. 
-[poster][https://docs.google.com/presentation/d/1H056sMLzNTS_burCOwPon268hg_9BqKMxQiy-yEbsjc/edit?usp=sharing]
+[poster](https://docs.google.com/presentation/d/1H056sMLzNTS_burCOwPon268hg_9BqKMxQiy-yEbsjc/edit?usp=sharing)
 
 Joshi et al. AES 2021
 [poster](https://docs.google.com/presentation/d/1mMj5y9r3tY_OFCrhoq9_L2VAUFCtrrWyTVg8Q376umw/edit?usp=sharing)
