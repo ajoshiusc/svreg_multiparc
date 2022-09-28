@@ -19,7 +19,7 @@ AtlasName: 'all' for all atlases, or specify the one atlas that you want to use.
     ``./svreg_multiparc.sh /path/subjectmriname /path/USCBrainMulti /path/BrainSuite19b DKT40``
 
 Here are screenshots of smoothed representation of labelled subject cortex for one subject.
-![multiparc](multiparc.png)
+![multiparc](multiparc1.png)
 
 ## Visualize the labels in BrainSuite
 You can visualize the generated parcellations in BrainSuite.
