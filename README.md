@@ -45,7 +45,7 @@ While it is easy to add any atlas to the svreg-multiparc module, the following a
     
 ## References
     
-1. Joshi AA, Tadel F, Taylor KN, Medani T., Akrami H, Nair D, Leahy RM, SVReg-MultiParc: A Method for Automated Labeling of Brains with Multiple Parcellation Schemes, OHBM 2022. [poster](https://docs.google.com/presentation/d/1H056sMLzNTS_burCOwPon268hg_9BqKMxQiy-yEbsjc/edit?usp=sharing)
+1. Joshi AA, Tadel F, Taylor KN, Medani T., Akrami H, Nair D, Shattuck DW, Leahy RM, SVReg-MultiParc: A Method for Automated Labeling of Brains with Multiple Parcellation Schemes, OHBM 2022. [poster](https://docs.google.com/presentation/d/1H056sMLzNTS_burCOwPon268hg_9BqKMxQiy-yEbsjc/edit?usp=sharing)
 
 2. Joshi AA, Tadel F, Taylor KN, Akrami H, Nair D, Leahy RM, Automatic Labeling of Individual Brains with Multiple Parcellation Schemes, AES 2021.
 [poster](https://docs.google.com/presentation/d/1mMj5y9r3tY_OFCrhoq9_L2VAUFCtrrWyTVg8Q376umw/edit?usp=sharing)
