@@ -67,7 +67,6 @@ subpth = fileparts(subbasename);
 
 for j = 1:length(atd)
     atlasbasename = fullfile(atd(j).folder,atd(j).name);
-
     a = regexp(atlasbasename, '.label.nii.gz', 'split');
     atlasbasename = a{1};
     [d,n]=fileparts(a{1});
@@ -211,7 +210,9 @@ for j = 1:length(atd)
     if exist(tmpdir,'dir')        
         rmdir(tmpdir,'s');
     end
-    
+
+    fprintf('Done!\n');
+
 end
 
 
